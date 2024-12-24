@@ -1,0 +1,105 @@
+Staliukas: 1
+Laikas: 22/12/2024 09:21:44
+Užsakymai:
+Burgeris - £5.99
+Hotdog - £1.99
+Kebabas didelis - £4.99
+Kebabas mazas - £3.50
+Cezario ssalotos - £5.49
+Fanta - £1.99
+Pepsi - £1.99
+Vanduo - £0.99
+Arbata ivairiausiu skoniu - £1.49
+Bendra suma: £28.42
+
+Staliukas: 2
+Laikas: 22/12/2024 09:23:04
+Užsakymai:
+Burgeris - £5.99
+Hotdog - £1.99
+Kebabas didelis - £4.99
+Kebabas mazas - £3.50
+Cezario ssalotos - £5.49
+Fanta - £1.99
+Pepsi - £1.99
+Vanduo - £0.99
+Arbata ivairiausiu skoniu - £1.49
+Bendra suma: £28.42
+
+Staliukas: 2
+Laikas: 22/12/2024 09:25:47
+Užsakymai:
+Burgeris - £5.99
+Hotdog - £1.99
+Kebabas didelis - £4.99
+Kebabas mazas - £3.50
+Cezario ssalotos - £5.49
+Fanta - £1.99
+Pepsi - £1.99
+Vanduo - £0.99
+Arbata ivairiausiu skoniu - £1.49
+Bendra suma: £28.42
+
+Staliukas: 1
+Laikas: 22/12/2024 09:31:34
+Užsakymai:
+Burgeris - £5.99
+Cola - £1.99
+Bendra suma: £7.98
+
+Staliukas: 2
+Laikas: 22/12/2024 09:48:07
+Užsakymai:
+Burgeris - £5.99
+Bendra suma: £5.99
+
+Staliukas: 1
+Laikas: 22/12/2024 09:51:44
+Užsakymai:
+Burgeris - £5.99
+Bendra suma: £5.99
+
+Staliukas: 1
+Laikas: 22/12/2024 09:53:49
+Užsakymai:
+Burgeris - £5.99
+Bendra suma: £5.99
+
+Staliukas: 1
+Laikas: 22/12/2024 09:55:26
+Užsakymai:
+Burgeris - £5.99
+Bendra suma: £5.99
+
+Staliukas: 3
+Laikas: 22/12/2024 10:40:58
+Užsakymai:
+Hotdog - £1.99
+Bendra suma: £1.99
+
+Staliukas: 2
+Laikas: 22/12/2024 13:46:33
+Užsakymai:
+Burgeris - £5.99
+Bendra suma: £5.99
+
+Staliukas: 2
+Laikas: 23/12/2024 17:00:30
+Užsakymai:
+Cezario salotos - £5.49
+Bendra suma: £5.49
+
+Staliukas: 1
+Laikas: 23/12/2024 17:04:44
+Užsakymai:
+Vanduo - £0.99
+Bendra suma: £0.99
+
+Staliukas: 1
+Laikas: 24/12/2024 09:10:53
+Užsakymai:
+Burgeris - £5.99
+Hotdog - £1.99
+Arbata - £1.49
+Bendra suma: £9.47
+

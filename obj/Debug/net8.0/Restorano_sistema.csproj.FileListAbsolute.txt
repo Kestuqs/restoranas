@@ -1,0 +1,14 @@
+C:\Users\kestu\source\repos\Restorano_sistema\Restorano_sistema\bin\Debug\net8.0\Restorano_sistema.exe
+C:\Users\kestu\source\repos\Restorano_sistema\Restorano_sistema\bin\Debug\net8.0\Restorano_sistema.deps.json
+C:\Users\kestu\source\repos\Restorano_sistema\Restorano_sistema\bin\Debug\net8.0\Restorano_sistema.runtimeconfig.json
+C:\Users\kestu\source\repos\Restorano_sistema\Restorano_sistema\bin\Debug\net8.0\Restorano_sistema.dll
+C:\Users\kestu\source\repos\Restorano_sistema\Restorano_sistema\bin\Debug\net8.0\Restorano_sistema.pdb
+C:\Users\kestu\source\repos\Restorano_sistema\Restorano_sistema\obj\Debug\net8.0\Restorano_sistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kestu\source\repos\Restorano_sistema\Restorano_sistema\obj\Debug\net8.0\Restorano_sistema.AssemblyInfoInputs.cache
+C:\Users\kestu\source\repos\Restorano_sistema\Restorano_sistema\obj\Debug\net8.0\Restorano_sistema.AssemblyInfo.cs
+C:\Users\kestu\source\repos\Restorano_sistema\Restorano_sistema\obj\Debug\net8.0\Restorano_sistema.csproj.CoreCompileInputs.cache
+C:\Users\kestu\source\repos\Restorano_sistema\Restorano_sistema\obj\Debug\net8.0\Restorano_sistema.dll
+C:\Users\kestu\source\repos\Restorano_sistema\Restorano_sistema\obj\Debug\net8.0\refint\Restorano_sistema.dll
+C:\Users\kestu\source\repos\Restorano_sistema\Restorano_sistema\obj\Debug\net8.0\Restorano_sistema.pdb
+C:\Users\kestu\source\repos\Restorano_sistema\Restorano_sistema\obj\Debug\net8.0\Restorano_sistema.genruntimeconfig.cache
+C:\Users\kestu\source\repos\Restorano_sistema\Restorano_sistema\obj\Debug\net8.0\ref\Restorano_sistema.dll

@@ -1,0 +1,3 @@
+Vanduo,0.99
+Cola,1.99
+Arbata,1.49
